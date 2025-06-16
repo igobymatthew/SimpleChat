@@ -1,6 +1,8 @@
 # 🧠 Mistral 7B Local Chatbot
 
 A fully self-hosted chatbot UI running Mistral 7B with GPU acceleration and Streamlit.
+It builds as docker, sends to streamlit, downloads file from huggingface, and you're up and going.
+Need docker desktop and a streamlit account. 
 
 ## 🛠 Features
 
